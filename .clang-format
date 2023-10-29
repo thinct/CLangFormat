@@ -1,0 +1,5 @@
+AlignTrailingComments: true
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignAfterOpenBracket: true
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
