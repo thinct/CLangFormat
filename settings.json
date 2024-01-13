@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "qtconcurrent": "cpp",
+        "fstream": "cpp",
+        "locale": "cpp",
+        "ostream": "cpp",
+        "xiosbase": "cpp",
+        "xstring": "cpp"
+    },
+    "editor.formatOnSave": true,
+    "clang-format.executable": "D:/Clang-Format/clang-format.exe",
+    "cmake.sourceDirectory": "E:/Work/LMRepos_V1.0/LaserMakerWebPage/Example/SimpleDemo"
+}
